@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task4</string>
+    <string name="insert_name">Input name</string>
+    <string name="insert_surname">Input surname</string>
+</resources>
